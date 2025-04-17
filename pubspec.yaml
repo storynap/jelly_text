@@ -1,7 +1,9 @@
 name: jelly_text
 description: "A new silly expandable text project."
 version: 1.0.0
-homepage:
+homepage: https://github.com/storynap/jelly_text
+repository: https://github.com/storynap/jelly_text
+issue_tracker: https://github.com/storynap/jelly_text/issues
 
 environment:
   sdk: ^3.5.4
